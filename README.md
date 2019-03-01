@@ -3,6 +3,8 @@
 
 # stellar-core
 
+This is a clone of the stellar-core repository. I am working on it to learn about its network.
+
 Stellar-core is a replicated state machine that maintains a local copy of a cryptographic ledger and processes transactions against it, in consensus with a set of peers.
 It implements the [Stellar Consensus Protocol](https://github.com/stellar/stellar-core/blob/master/src/scp/readme.md), a _federated_ consensus protocol.
 It is written in C++14 and runs on Linux, OSX and Windows.
